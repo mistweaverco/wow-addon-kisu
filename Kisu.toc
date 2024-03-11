@@ -1,0 +1,14 @@
+## Interface: 100200
+
+## Version: 0.0.1
+## Title: Kisu
+## Notes: A collection of tools for rogues.
+## Author: Walialu
+## DefaultState: enabled
+## SavedVariables: KisuDB
+## SavedVariablesPerCharacter: KisuPCDB
+## IconTexture: 626005
+
+core.lua
+utils.lua
+shroudcountdown.lua
